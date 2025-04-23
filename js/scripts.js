@@ -29,10 +29,10 @@ fetch(dataSource)
           <img src="${student.imageUrl}">
           <header> ${student.name} </header>
           <p>  Emoji: ${student.status} </p>
-          <p>  Quote: ${student.funFact} </p>
+          <p>  Fun Fact: ${student.funFact} </p>
           <p>  Superpower: ${student.team} </p>
-          <p>  Favorite Character: ${student.motto} </p>
-          <p>  Favorite Artist: ${student.favoriteSimpsonsCharacter} </p>
+          <p>  Quote: ${student.motto} </p>
+          <p>  Favorite Character: ${student.favoriteSimpsonsCharacter} </p>
           <p>  Favorite Artist: ${student.favoriteBand} </p>
           <p>  Superpower: ${student.talent} </p>
           <p>  Favorite Food:  ${student.favoriteFood} </p>
