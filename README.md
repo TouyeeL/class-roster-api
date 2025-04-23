@@ -23,3 +23,6 @@ List your sources here
 Thre are many have a no-code CMS, and GUIs for designing the templates. AirTable (and many others) also have an API that is accessible as a _headless CMS_. 
 
 [AirTable](https://airtable.com/)
+[Favicon](https://lucide.dev/icons/laugh)
+
+[ClassData](https://assets.codepen.io/16425/Spring-2025-Roster.json)
