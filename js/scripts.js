@@ -33,9 +33,10 @@ fetch(dataSource)
           <p>  Superpower: ${student.team} </p>
           <p>  Favorite Character: ${student.motto} </p>
           <p>  Favorite Artist: ${student.favoriteSimpsonsCharacter} </p>
-          <p>  Favorite Food: ${student.favoriteBand} </p>
+          <p>  Favorite Artist: ${student.favoriteBand} </p>
           <p>  Superpower: ${student.talent} </p>
-          <p>  Favorite Song:  ${student.favoriteFood} </p>
+          <p>  Favorite Food:  ${student.favoriteFood} </p>
+          <p>  Favorite Song:  ${student.favoriteSong} </p>
         </figure>
         `;
 
